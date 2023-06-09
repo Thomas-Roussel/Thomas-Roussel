@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas R.</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-- 🔭 I’m currently working on [Friend's](https://discord.gg/yjG2pzeJmj)
+- 🔭 I’m currently working on [???](https://thomas-r.fr)
 
 - 👨‍💻 All of my projects are available at [https://thomas-r.fr](https://thomas-r.fr)
 
